@@ -6,4 +6,4 @@ Bot.registry.registerDefaults();
 Bot.registry.registerCommandsIn(__dirname + "/commands");
 
 
-Bot.login('NDY0NzU0MTEzOTQzNTY4Mzg0.DiTPNw.HE1CKvtLHI9547Vvqn6ZyJvefMM');
+Bot.login('');
